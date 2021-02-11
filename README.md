@@ -12,7 +12,7 @@ Make sure you have Python 3.9 [installed locally](http://install.python-guide.or
 $ git clone https://github.com/Esteban1891/testAPP/
 $ cd backend
 
-$ python3 -m venv backend
+$ python3 -m venv venv
 $ pip install -r requirements.txt
 
 $ createdb backend
