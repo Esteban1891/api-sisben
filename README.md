@@ -20,7 +20,7 @@ $ createdb backend
 $ python manage.py migrate
 $ python manage.py collectstatic
 
-$ heroku local
+$  heroku local -p 7001  
 ```
 
 Your app should now be running on [localhost:7000](http://localhost:7000/).
@@ -29,7 +29,7 @@ Your app should now be running on [localhost:7000](http://localhost:7000/).
 
 ```sh
 $ heroku create
-$ git push heroku main
+$ git push heroku master
 
 $ heroku run python manage.py migrate
 $ heroku open
