@@ -1,0 +1,12 @@
+django-cors-headers 
+django-filter
+
+djangorestframework
+
+Markdown
+mysqlclient
+
+django
+
+sqlparse
+
