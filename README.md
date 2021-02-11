@@ -9,7 +9,7 @@ This application supports the [Getting Started with Python on Heroku](https://de
 Make sure you have Python 3.9 [installed locally](http://install.python-guide.org). To push to Heroku, you'll need to install the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli), as well as [Postgres](https://devcenter.heroku.com/articles/heroku-postgresql#local-setup).
 
 ```sh
-$ git clone https://github.com/Esteban1891/testAPP/
+$ git clone https://github.com/Esteban1891/api-sisben
 $ cd backend
 
 $ python3 -m venv venv
