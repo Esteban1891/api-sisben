@@ -1,4 +1,4 @@
-# Python: Test APP
+# Python: api-sisben
 
 A barebones Django app, which can easily be deployed to Heroku.
 
