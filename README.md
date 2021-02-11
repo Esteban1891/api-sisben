@@ -23,7 +23,7 @@ $ python manage.py collectstatic
 $  heroku local -p 7001  
 ```
 
-Your app should now be running on [localhost:7000](http://localhost:7000/).
+Your app should now be running on [localhost:7001](http://localhost:7001/).
 
 ## Deploying to Heroku
 
