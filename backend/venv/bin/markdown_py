@@ -1,4 +1,4 @@
-#!/Users/esteban/Django/pruebaApp/backend/env/bin/python
+#!/Users/esteban/Django/pruebaApp/backend/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys

@@ -156,8 +156,8 @@ REST_FRAMEWORK = {
 
 #LOGIN_REDIRECT_URL = '/'
 
-CORS_ALLOWED_ORIGINS = [
-    "http://localhost:4200",
-]
-
+# CORS_ALLOWED_ORIGINS = [
+#     "http://localhost:4200",
+# ]
+STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles') # borrar si hay error
 django_heroku.settings(locals()) # borrar si hay error
